@@ -1,0 +1,17 @@
+body{
+    background-color:lightblue;
+}
+input{
+    margin: 10px;
+}
+
+#submitbutton{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#sortbutton{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: none;
+}
